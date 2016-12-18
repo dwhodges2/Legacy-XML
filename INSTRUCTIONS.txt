@@ -7,6 +7,7 @@ Associated data is contained in the "authority files" folder, and new items shou
 
 • authors.xml: List of authors with unique IDs, names, and affiliations. Newly created records should have "AU" prefix (AU0001, etc.)
 • external_resource_types.xml: List of external links and video embed ids. Newly created records should have "ER" prefix (ER0001, etc.)
+• institutions.xml: List of institutions referenced by resources and journals. Newly created records should have "IN" prefix (ER0001, etc.)
 • journal_issues.xml: List of journal issues. Newly created records should have "JI" prefix (JI0001, etc.)
 • journals.xml: List of journals. Newly created records should have "JO" prefix (JO0001, etc.)
 • locations.xml: Spacial tags used for resources. Newly created records should have "LO" prefix (LO0001, etc.)
