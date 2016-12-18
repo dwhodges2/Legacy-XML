@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="flat_file_xml.xsd">
+  
+  <resource>
+    
+    <!--  ID assigned by vendor with 'A' prefix. Also in filename. -->
+    <id>A0002</id>
+    
+    <!--  Tile of work -->
+    <title>Rethinking Modernity and National Identity in Turkey</title>
+    
+    <!--  Authors: Use author id from authority file, or create new with 'AU' prefix and add there;
+          role attribute is required [Author | Editor]; Use 'Author' by default -->
+    <authors>
+      <author_id role="Author">45758</author_id>
+      <author_id role="Author">45759</author_id>
+    </authors>    
+    
+    <!--  Content types: Working Paper | Journal Article | Book | Policy Brief | 
+          Case Study | Course Pack | Video | Ciao Focus   -->
+    <content_type>Book</content_type>
+    
+    <!--  Resource types: Text | Moving Image | Collection  -->
+    <resource_type>Text</resource_type>
+    
+    <!--  Institution: Use id from authority file, or create with new 'IN' prefix and add there -->
+    <institution_id>806</institution_id>
+    
+    <!--  Abstract: Use from existing metadata; if none, pull first paragraph of full-text; otherwise leave empty -->
+    <abstract>In Turkey and around the world today, we are witnessing the eclipse of the progressive and emancipatory discourse of modernity. Some of us view the spectacle with melancholy—yet it has also produced a remarkably lively and pluralist climate in which new voices are being heard and deeply entrenched assumptions are being radically and, we believe, irreversibly challenged. At the center of the most heated theoretical debates in many disciplines is the question of whether it is possible to undertake a rigorous critique of the Enlightenment project of modernity without surrendering its liberating and humanist premises.</abstract>
+    
+    <!--  Full Text: Capture if any -->
+    <full_text/>
+    
+    <!--  Pub Date: format yyyy-mm-dd -->
+    <pub_date>1999-09-01</pub_date>
+    
+    <!--  Language: ISO language code [en | de | es | ...] -->
+    <language>en</language>
+    
+    <!--  Subjects: Can be arbitrary number of subjects. 
+          Match existing codes from authority file, or create new IDs using 'SU' prefix and add there  -->
+    <subject_id>142</subject_id>
+    
+    <!--  Locations: Add ids as found in authority file; if none, create new ids with 'LO' prefix and add there -->
+    <spatials>
+      <spatial>
+        <id>37</id>
+      </spatial>
+    </spatials>
+    
+    <!--  Journal Issue: Add ids as found in authority file; 
+          if none, create new ids with 'JI' prefix and add there;
+          order specifies article sequence within the journal issue-->
+    <journal_issue_id></journal_issue_id>
+    <order></order>
+    
+    <!--  ISBN: Add if any (i.e., if a book) -->
+    <isbns>
+      <isbn></isbn>
+    </isbns>
+    
+    <!--  Associated resources: list of resources by id that appear as children of this resource; 
+          order_id specifies list sorting -->
+    <associated_ciao_resources>
+      <associated_ciao_resource>
+        <ciao_id></ciao_id>
+        <order_id></order_id>
+      </associated_ciao_resource>
+    </associated_ciao_resources>
+    
+    <!--  External resources: Create unique ids with 'ER' prefix, and add to authority file; 
+          details go in that file, use only id here; kind has two options: Link and YouTube; 
+          for YouTube, the URL is only the video id string, which becomes a player embed on front end. -->
+    <associated_external_resources>
+      <associated_external_resource>
+        <id></id>
+      </associated_external_resource>
+    </associated_external_resources>
+  </resource>
+</resources>

@@ -1,0 +1,594 @@
+<!-- based on db export 2016-12-16-->
+<journals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="authority_schema.xsd">
+	<journal>
+		<id>28</id>
+		<name>Pacific Affairs</name>
+		<blurb>Pacific Affairs is a peer-reviewed scholarly journal focusing on important current political, economic and social issues throughout Asia and the Pacific. Each issue contains approximately four new articles and 40-50 book reviews.
+Published since 1927, Pacific Affairs enjoys an international reputation and attracts top scholars. It provides essential information for anyone seeking balanced knowledge of the dynamic Asian scene.
+Pacific Affairs is indexed by Public Affairs Information Service, Social Sciences and Humanities Index, ABC POL SCI, Current Contents/Social  Behavioral Sciences, Social Sciences Citation Index and Canadian Periodical Index. Abstracts of articles in Pacific Affairs appear in Asian-Pacific Economic Literature, Historical Abstracts and/or American History and Life, Sage Public Administration Abstracts and/or Human Resource Abstracts, International Bibliography of the Social Sciences, International Political Science Abstracts, Academic Abstracts, Social Science Source, IBZ, Geo Abstracts and GEOBASE. Excerpts of book reviews appear in Book Review Digest and Review of Reviews, and book reviews are indexed in Book Review Index and IBR. Pacific Affairs is archived in JSTOR with a five year moving wall.</blurb>
+		<url>http://www.pacificaffairs.ubc.ca/archive/</url>
+		<institution_id>544</institution_id>
+	</journal>
+	<journal>
+		<id>30</id>
+		<name>Ethics  International Affairs Journal</name>
+		<blurb>Annual Journal of the Carnegie Council on Ethics and International Affairs.</blurb>
+		<url>http://www.cceia.org/resources/journal/index.html</url>
+		<institution_id>547</institution_id>
+	</journal>
+	<journal>
+		<id>31</id>
+		<name>Survival</name>
+		<blurb></blurb>
+		<url>http://www.iiss.org/publications/survival</url>
+		<institution_id>548</institution_id>
+	</journal>
+	<journal>
+		<id>32</id>
+		<name>Strategic Analysis</name>
+		<blurb></blurb>
+		<url>http://www.idsa.in/strate-archieve.htm</url>
+		<institution_id>550</institution_id>
+	</journal>
+	<journal>
+		<id>33</id>
+		<name>Theoria</name>
+		<blurb>Theoria is an engaged, multidisciplinary and peer-reviewed journal of social and political theory. Its purpose is to address, through scholarly debate, the many challenges posed to intellectual life by the major social, political and economic forces that shape the contemporary world. Thus it is principally concerned with questions such as how modern systems of power, processes of globalization and capitalist economic organization bear on matters such as justice, democracy and truth.</blurb>
+		<url>http://journals.berghahnbooks.com/th/index.php</url>
+		<institution_id>551</institution_id>
+	</journal>
+	<journal>
+		<id>34</id>
+		<name>Turkish Policy Quarterly</name>
+		<blurb></blurb>
+		<url></url>
+		<institution_id>552</institution_id>
+	</journal>
+	<journal>
+		<id>35</id>
+		<name>US Foreign Policy Agenda</name>
+		<blurb></blurb>
+		<url></url>
+		<institution_id>553</institution_id>
+	</journal>
+	<journal>
+		<id>37</id>
+		<name>WIDER Angle</name>
+		<blurb>WIDER Angle is the newsletter of UNU-WIDER. Published twice a year, the newsletter focuses on our research activities. It is distributed free of charge.</blurb>
+		<url>http://www.wider.unu.edu/publications/newsletter/en_GB/angle-introduction/</url>
+		<institution_id>557</institution_id>
+	</journal>
+	<journal>
+		<id>38</id>
+		<name>Woodrow Wilson School Journal of Public and International Affairs</name>
+		<blurb>JPIA is a scholarly publication exclusively presenting the work of graduate students from professional schools of public and international affairs. JPIA, now in its sixteenth year, provides a unique forum for students of public policy to present their research and analysis of issues of concern to them. It is also an opportunity for professional exchange, collegial interaction, and cooperative academic effort among the members of the Association of Professional Schools of International Affairs (APSIA).</blurb>
+		<url>http://www.princeton.edu/~jpia/</url>
+		<institution_id>560</institution_id>
+	</journal>
+	<journal>
+		<id>40</id>
+		<name>World Policy Journal</name>
+		<blurb>World Policy Journal is the flagship publication of the World Policy Institute. For over 30 years, the pages of WPJ have been known for lively, intelligent writing that challenges conventional wisdom on global affairs. The articles and analysis are distinguished by their allergy to dogma, offering strong points of view that transcend the foreign-versus-domestic policy divide, reflecting the Institute&#039;s &quot;world&quot; perspective. The editors seek a range of voices from around the world, chosen for the quality of their ideas and analysis, as well as their ability to chronicle the societies and cultures in which they live.</blurb>
+		<url>http://www.worldpolicy.org/journal/fall2014</url>
+		<institution_id>556</institution_id>
+	</journal>
+	<journal>
+		<id>41</id>
+		<name>The World Today</name>
+		<blurb></blurb>
+		<url>http://www.chathamhouse.org.uk/publications/twt/</url>
+		<institution_id>549</institution_id>
+	</journal>
+	<journal>
+		<id>45</id>
+		<name>The Washington Quarterly</name>
+		<blurb>Published by CSIS, The Washington Quarterly is a journal of international affairs, analyzing global strategic changes and their public policy implications. It addresses topics such as: the U.S. role in the world, the emerging great powers missile defenses and weapons of mass destruction global perspectives to reduce terrorism regional issues and flashpoints the implications of global political change views from the U.S. Congress Contributors are drawn from outside as well as inside the United States and reflect diverse political, regional, and professional perspectives. Essays are authoritative yet written for the international affairs generalist. Policymakers in the executive and legislative branches and members of the academic, corporate, and media communities value TWQ as a source of incisive, independent thinking about international political and security challenges and policies. TWQ has subscribers in more than 50 countries. Published by the MIT Press for the Center for Strategic and International Studies.</blurb>
+		<url>http://www.twq.com</url>
+		<institution_id>558</institution_id>
+	</journal>
+	<journal>
+		<id>46</id>
+		<name>Strategic Insights</name>
+		<blurb></blurb>
+		<url>http://www.ccc.nps.navy.mil/si/archiveDate.asp#vol6issue5</url>
+		<institution_id>559</institution_id>
+	</journal>
+	<journal>
+		<id>47</id>
+		<name>Journal of Palestine Studies</name>
+		<blurb></blurb>
+		<url>http://www.palestine-studies.org/journals.aspx?href=current=1</url>
+		<institution_id>561</institution_id>
+	</journal>
+	<journal>
+		<id>48</id>
+		<name>Cultures  Conflits</name>
+		<blurb></blurb>
+		<url>http://www.conflits.org/</url>
+		<institution_id>562</institution_id>
+	</journal>
+	<journal>
+		<id>49</id>
+		<name>International Security</name>
+		<blurb>Additional Materials from Belfer Center for Science and International Affairs, Harvard University</blurb>
+		<url>http://belfercenter.ksg.harvard.edu/project/58/quarterly_journal.html</url>
+		<institution_id>563</institution_id>
+	</journal>
+	<journal>
+		<id>50</id>
+		<name>Connections</name>
+		<blurb>Additional Materials from Partnership for Peace Consortium of Defense Academies and Security Studies Institutes.</blurb>
+		<url>https://pfpconsortium.org/node/5/publications_list?field_publication_type[]=Connections%20Quarterly%20Journal</url>
+		<institution_id>564</institution_id>
+	</journal>
+	<journal>
+		<id>53</id>
+		<name>Georgetown Journal of International Affairs</name>
+		<blurb>The Georgetown Journal of International Affairs is the official semi-annual publication of the Edmund A. Walsh School of Foreign Service at Georgetown University. The Journal provides our readers with a breadth of perspectives on international affairs by giving voice to leading academics, policy makers, analysts, and journalists from six continents. Each issue features a Forum, which offers a focused and in-depth analysis of key issues, as well as nine sections ranging from Conflict and Security to Business and Economics, demonstrating the Journal&#039;s pursuit of a holistic approach to international affairs.</blurb>
+		<url>http://journal.georgetown.edu</url>
+		<institution_id>565</institution_id>
+	</journal>
+	<journal>
+		<id>54</id>
+		<name>International Issues  Slovak Foreign Policy Affairs</name>
+		<blurb>Note: This is the successor publication to International Issues.</blurb>
+		<url>http://www.sfpa.sk/en/publikacie/international-issues/</url>
+		<institution_id>566</institution_id>
+	</journal>
+	<journal>
+		<id>55</id>
+		<name>Foreign Affairs</name>
+		<blurb></blurb>
+		<url>http://www.foreignaffairs.org</url>
+		<institution_id>567</institution_id>
+	</journal>
+	<journal>
+		<id>56</id>
+		<name>The Journal of International Security Affairs</name>
+		<blurb>Founded in 2001, The Journal of International Security Affairs is dedicated to shaping ideas and framing policy relating to the security of the United States and its allies abroad.</blurb>
+		<url>http://www.securityaffairs.org/</url>
+		<institution_id>570</institution_id>
+	</journal>
+	<journal>
+		<id>57</id>
+		<name>Insight Turkey</name>
+		<blurb>Additional Materials from SETA Foundation for Political, Economic and Social Research</blurb>
+		<url>http://www.insightturkey.com/</url>
+		<institution_id>576</institution_id>
+	</journal>
+	<journal>
+		<id>58</id>
+		<name>Athena Intelligence Journal</name>
+		<blurb>Athena Intelligence is an advanced research network on insurgency and jihadist terrorism composed of specialists coming from Universities, Spanish Armed Forces and security agencies. Athena Intelligence&#039;s aims are the following: Promoting multidisciplinary research on jihadist terrorism, Elaborating and transmitting analytical and scientific studies, Selecting and classifying information from open sources on insurgency and jhadist terrorism, Providing specialized teaching and training.</blurb>
+		<url>http://www.athenaintelligence.org/athenajournale.htm</url>
+		<institution_id>577</institution_id>
+	</journal>
+	<journal>
+		<id>59</id>
+		<name>Political Science Quarterly</name>
+		<blurb>Additional Materials from Academy of Political Science:</blurb>
+		<url>http://www.psqonline.org/</url>
+		<institution_id>545</institution_id>
+	</journal>
+	<journal>
+		<id>60</id>
+		<name>Ambassadors Review</name>
+		<blurb>The Ambassadors Review is published by The Council of American Ambassadors. The Council of American Ambassadors is a nonprofit, nonpartisan association of more than 200 former and incumbent non-career United States ambassadors that supports the role of the American ambassador and the country team in carrying out U.S. foreign policy at embassies around the world. In this connection, it provides advice and assistance to the U.S. Department of State, as appropriate, and endeavors to educate the public on foreign policy issues affecting the national interest.</blurb>
+		<url>http://www.americanambassadors.org/</url>
+		<institution_id>588</institution_id>
+	</journal>
+	<journal>
+		<id>61</id>
+		<name>Human Rights and Human Welfare - Review Essays</name>
+		<blurb>Human Rights  Human Welfare is edited by representatives of an international consortium of research centers, and is managed by the University of Denver&#039;s Graduate School of International Studies. The global character of the Consortium permits HRHW to review materials written in all of the major languages.</blurb>
+		<url>http://www.du.edu/gsis/hrhw/</url>
+		<institution_id>589</institution_id>
+	</journal>
+	<journal>
+		<id>62</id>
+		<name>al Nakhlah</name>
+		<blurb>Al Nakhlah is The Fletcher School&#039;s online journal on Southwest Asia and Islamic Civilization. Al Nakhlah, which is Arabic for date palm, features thoughtful and informative articles and editorials by Fletcher students and alumni. Published once per semester, Al Nakhlah is sponsored by The Fletcher School&#039;s Program for Southwest Asia and Islamic Civilization (SWAIC). The journal seeks to step beyond the traditional Middle East policy approach and embrace the broader range of political, economic, and cultural aspects of the larger Southwest Asian region--a region that spans the Eastern Mediterranean, Anatolia and the Sinai Peninsula in the West, covers the Arab heartland, the Caucasus and Central Asia, and reaches as far east as Iran, Pakistan, and the Gulf Region.</blurb>
+		<url>http://fletcher.tufts.edu/Al-Nakhlah</url>
+		<institution_id>614</institution_id>
+	</journal>
+	<journal>
+		<id>63</id>
+		<name>The Cato Journal</name>
+		<blurb>Additional Materials from The Cato Institute</blurb>
+		<url>http://www.cato.org/pubs/journal/index.html</url>
+		<institution_id>540</institution_id>
+	</journal>
+	<journal>
+		<id>64</id>
+		<name>Critical Review</name>
+		<blurb></blurb>
+		<url>http://www.criticalreview.com/</url>
+		<institution_id>618</institution_id>
+	</journal>
+	<journal>
+		<id>65</id>
+		<name>French Politics, Culture  Society</name>
+		<blurb>FPC is the journal of the Conference Group on French Politics  Society. It is jointly sponsored by the Institute of French Studies at New York University and the Minda de Gunzburg Center for European Studies at Harvard University. The journal explores modern and contemporary France from the perspectives of the social sciences, history, and cultural analysis. It also examines the relationship of France to the larger world, especially Europe, the United States, and the former French Empire. The editors also welcome pieces on recent debates and events, as well as articles that explore the connections between French society and cultural expression of all sorts (such as art, film, literature, and popular culture).</blurb>
+		<url>http://journals.berghahnbooks.com/fpcs/index.php</url>
+		<institution_id>619</institution_id>
+	</journal>
+	<journal>
+		<id>67</id>
+		<name>CTC Sentinel</name>
+		<blurb></blurb>
+		<url>http://www.ctc.usma.edu/publications/sentinel</url>
+		<institution_id>629</institution_id>
+	</journal>
+	<journal>
+		<id>68</id>
+		<name>Romanian Journal of Political Science</name>
+		<blurb></blurb>
+		<url>http://www.sar.org.ro/index.php?page=categorie=31</url>
+		<institution_id>633</institution_id>
+	</journal>
+	<journal>
+		<id>69</id>
+		<name>International Affairs</name>
+		<blurb>International Affairs is a leading journal of international relations. It is committed to excellence in scholarship and accessibility in style, combining policy relevance with an academic, in-depth analytical approach to contemporary world politics. International Affairs seeks to be rigorous and original in its analysis and to be a reference point for experts in the field. It aims to address important subjects systematically and to attract exceptional international authors who will provoke argument and debate.</blurb>
+		<url>http://www.chathamhouse.org/publications/ia</url>
+		<institution_id>549</institution_id>
+	</journal>
+	<journal>
+		<id>70</id>
+		<name>International Affairs: A Russian Journal of World Politics, Diplomacy and International Relations</name>
+		<blurb>The voice of Russia&#039;s Foreign Ministry. Offers unique, first-hand analysis of major foreign policy and security issues facing Russia and other former Soviet Republics.</blurb>
+		<url>http://www.eastviewpress.com/Journals/InternationalAffairs.aspx</url>
+		<institution_id>634</institution_id>
+	</journal>
+	<journal>
+		<id>71</id>
+		<name>Alternatives: Turkish Journal of International Relations</name>
+		<blurb></blurb>
+		<url>http://www.alternativesjournal.net/</url>
+		<institution_id>712</institution_id>
+	</journal>
+	<journal>
+		<id>72</id>
+		<name>Comparative Connections</name>
+		<blurb>The Pacific Forum established Comparative Connections in April 1999 to provide a timely, concise, and comprehensive source of information and analysis on key East Asian bilateral relationships. Recognized specialists provide a brief article each quarter on the key developments in 12 selected bilateral relationships, highlighting the impact on U.S. interests. Articles include a chronology of key events. A regional overview puts the events of the quarter into a broader context, while also discussing multilateral developments.</blurb>
+		<url>http://www.csis.org/pacfor/ccejournal.html</url>
+		<institution_id>558</institution_id>
+	</journal>
+	<journal>
+		<id>73</id>
+		<name>European Affairs</name>
+		<blurb>Published by The European Institute, European Affairs reflects the discussions that take place between the US and Europe in the capital of the United States. Its goal is to facilitate the transatlantic dialogue and to disseminate information on issues affecting the US-EU relationship.</blurb>
+		<url>http://www.europeaninstitute.org/European-Affairs/</url>
+		<institution_id>713</institution_id>
+	</journal>
+	<journal>
+		<id>74</id>
+		<name>European Journal of International Law</name>
+		<blurb></blurb>
+		<url>http://ejil.oxfordjournals.org/</url>
+		<institution_id>715</institution_id>
+	</journal>
+	<journal>
+		<id>75</id>
+		<name>Uluslararasi Iliskiler</name>
+		<blurb></blurb>
+		<url>http://www.uidergisi.com/index.php</url>
+		<institution_id>717</institution_id>
+	</journal>
+	<journal>
+		<id>76</id>
+		<name>German Politics and Society</name>
+		<blurb>GPS is a joint publication of the BMW Center for German and European Studies (of the Edmund A. Walsh School of Foreign Service, Georgetown University) and all North American universities associated with the German Academic Exchange Service (DAAD). A peer-reviewed journal, it is the only American publication that explores issues in modern Germany from the combined perspectives of the social sciences, history, and cultural studies. It provides a forum for critical analysis and debate about politics, history, film, literature, visual arts, and popular culture in contemporary Germany. Every issue also includes contributions by renowned scholars commenting on recent books about Germany.</blurb>
+		<url>http://journals.berghahnbooks.com/gps/</url>
+		<institution_id>721</institution_id>
+	</journal>
+	<journal>
+		<id>77</id>
+		<name>International Journal of Korean Studies</name>
+		<blurb></blurb>
+		<url>http://www.icks.org/publication/index.html</url>
+		<institution_id>775</institution_id>
+	</journal>
+	<journal>
+		<id>78</id>
+		<name>African Journal of Legal Studies</name>
+		<blurb></blurb>
+		<url>http://www.theafricalawinstitute.org/</url>
+		<institution_id>818</institution_id>
+	</journal>
+	<journal>
+		<id>91</id>
+		<name>International Politics</name>
+		<blurb>International Politics defines itself as critical in character, truly international in scope, and totally engaged with the central issues facing the world today. Taking as its point of departure the simple but essential notion that no one approach has all the answers, it aims to provide a global forum for a rapidly expanding community of scholars from across the range of academic disciplines.</blurb>
+		<url>http://www.palgrave-journals.com/ip/index.html</url>
+		<institution_id>828</institution_id>
+	</journal>
+	<journal>
+		<id>92</id>
+		<name>International Relations of the Asia-Pacific</name>
+		<blurb></blurb>
+		<url>http://irap.oupjournals.org/</url>
+		<institution_id>829</institution_id>
+	</journal>
+	<journal>
+		<id>93</id>
+		<name>The International Spectator</name>
+		<blurb></blurb>
+		<url>http://www.tandf.co.uk/journals/authors/rspeauth.asp</url>
+		<institution_id>581</institution_id>
+	</journal>
+	<journal>
+		<id>95</id>
+		<name>Journal of International Affairs</name>
+		<blurb>The Journal of International Affairs is a leading foreign affairs periodical published by the students at the School of International and Public Affairs at Columbia University. The Journal has earned worldwide recognition for its unique, single-topic format and for framing heated debates in international affairs for over fifty years. Its contributors are drawn from a diverse group of academics and practitioners and have included Hannah Arendt, Willy Brandt, Zbigniew Brzezinski, W. Averall Harriman, Margaret Mead, Paul Volcker, Kenneth Waltz, Domingo Cavallo and Jimmy Carter. The Journal enjoys a readership in more than eighty countries.</blurb>
+		<url>http://jia.sipa.columbia.edu/</url>
+		<institution_id>831</institution_id>
+	</journal>
+	<journal>
+		<id>96</id>
+		<name>Journal of International Relations and Development</name>
+		<blurb></blurb>
+		<url>http://ian.vse.cz/ceeisa/about.php</url>
+		<institution_id>832</institution_id>
+	</journal>
+	<journal>
+		<id>97</id>
+		<name>Journal of Military and Strategic Studies</name>
+		<blurb></blurb>
+		<url>http://www.jmss.org/</url>
+		<institution_id>833</institution_id>
+	</journal>
+	<journal>
+		<id>98</id>
+		<name>Journal of Security Sector Management</name>
+		<blurb></blurb>
+		<url>http://www.ssronline.org/jofssm/index.cfm</url>
+		<institution_id>834</institution_id>
+	</journal>
+	<journal>
+		<id>99</id>
+		<name>Middle East Review of International Affairs</name>
+		<blurb></blurb>
+		<url>URL: http://meria.idc.ac.il/</url>
+		<institution_id>835</institution_id>
+	</journal>
+	<journal>
+		<id>100</id>
+		<name>The National Interest</name>
+		<blurb></blurb>
+		<url>http://www.nationalinterest.org/</url>
+		<institution_id>836</institution_id>
+	</journal>
+	<journal>
+		<id>102</id>
+		<name>The Nonproliferation Review</name>
+		<blurb>Additional Materials from James Martin Center for Nonproliferation Studies</blurb>
+		<url>http://cns.miis.edu/npr/index.htm</url>
+		<institution_id>838</institution_id>
+	</journal>
+	<journal>
+		<id>105</id>
+		<name>Security Studies</name>
+		<blurb></blurb>
+		<url>http://www.informaworld.com/smpp/title~content=t713636712~db=mass</url>
+		<institution_id>839</institution_id>
+	</journal>
+	<journal>
+		<id>108</id>
+		<name>The Whitehead Journal of Diplomacy and International Relations</name>
+		<blurb>Formerly known as The Seton Hall Journal of Diplomacy and International Relations.</blurb>
+		<url>http://www.shu.edu/academics/diplomacy/index.cfm</url>
+		<institution_id>841</institution_id>
+	</journal>
+	<journal>
+		<id>109</id>
+		<name>The Caucasian Review of International Affairs</name>
+		<blurb>The Caucasian Review of International Affairs (CRIA) is a Germany-registered, quarterly peer-reviewed free, not-for-profit and online academic journal which has been published in English since 2006. With its broad International Advisory Board and Editorial Board representing various academic institutions the Review is committed to promote a better understanding of regional affairs by providing relevant background information and analysis, as far as the Caucasus in general, and the South Caucasus in particular are concerned.</blurb>
+		<url>http://www.cria-online.org/About_us.html</url>
+		<institution_id>847</institution_id>
+	</journal>
+	<journal>
+		<id>110</id>
+		<name>The Objective Standard</name>
+		<blurb>The Objective Standard is a quarterly journal of culture and politics based on the idea that for every human concern—from personal matters to foreign policy, from the sciences to the arts, from education to legislation—there are demonstrably objective standards by reference to which we can assess what is true or false, good or bad, right or wrong. The purpose of the journal is to analyze and evaluate ideas, trends, events, and policies accordingly.</blurb>
+		<url>http://www.theobjectivestandard.com/index.asp</url>
+		<institution_id>851</institution_id>
+	</journal>
+	<journal>
+		<id>112</id>
+		<name>Journal of Politics in Latin America</name>
+		<blurb>JPLA, first published in 2009 by the GIGA Institute of Latin American Studies (ILAS) in Hamburg, is a refereed journal focused on comparative politics on Latin America. The journal is dedicated to promoting a deeper understanding of the political process and political institutions in the region.</blurb>
+		<url>http://hup.sub.uni-hamburg.de/giga/jpla/index</url>
+		<institution_id>573</institution_id>
+	</journal>
+	<journal>
+		<id>113</id>
+		<name>Journal of Current Chinese Affairs</name>
+		<blurb>The Journal of Current Chinese Affairs is an internationally refereed academic journal jointly published by the GIGA Institute of Asian Studies, Hamburg and the National Institute of Chinese Studies, White Rose East Asia Centre, United Kingdom. The quarterly journal focuses on current developments in Greater China. It is simultaneously published online as an Open Access journal and as a printed version with a circulation of 1,000 copies, making it one of the world&#039;s most widely read periodicals on Asian affairs.</blurb>
+		<url>http://hup.sub.uni-hamburg.de/giga/jcca</url>
+		<institution_id>573</institution_id>
+	</journal>
+	<journal>
+		<id>114</id>
+		<name>Central European University Political Science Journal</name>
+		<blurb>Central European University is a graduate institution in the social sciences, the humanities, law and management. It is accredited in both the United States and Hungary, and offers English-language Master&#039;s and doctoral programs. Located in the heart of Central Europe -- Budapest, Hungary -- CEU has developed a distinct academic and intellectual focus, combining the comparative study of the region&#039;s historical, cultural, and social diversity with a global perspective on good governance, sustainable development and social transformation. As part of its educational, research, and civic engagement activities, CEU attaches particular importance to scholarship relevant to public policy.</blurb>
+		<url>http://politicalscience.ceu.edu/node/208</url>
+		<institution_id>876</institution_id>
+	</journal>
+	<journal>
+		<id>116</id>
+		<name>Journal of Global Analysis</name>
+		<blurb>The Journal of Global Analysis, the official journal of the Centre for Strategic Research and Analysis covers a broad range of topics related to politics, international affairs, and economics. It endeavours to present clear thinking by knowledgeable observers on important issues, written in English that can be read with ease and pleasure by both professionals and a broad general audience. Therefore, the Editors welcome all submissions under the rubric of Global Analysis. The Journal&#039;s preference will be given to articles that address and contribute to important disciplinary and interdisciplinary questions and controversies.</blurb>
+		<url>http://cesran.org/index.php?option=com_content=category=blog=180=191=en</url>
+		<institution_id>864</institution_id>
+	</journal>
+	<journal>
+		<id>117</id>
+		<name>The Goettingen Journal of International Law</name>
+		<blurb>The Goettingen Journal of International Law is an initiative with the primary objective of publishing an e-journal of legal scholarship focusing on International Law. Our aim is to publish a journal that fosters debate among scholars of diverse fields in international law, while, at the same time, facilitating contributions to the debate from related disciplines. GoJIL publishes two types of issues. The first type is a semi-annual regular issue. For this we encourage submissions addressing international law in general employing methodologies from neighboring disciplines such as international relations, history, or economics. The journal also welcomes contributions emanating from specialized branches of international law such as international criminal law, international humanitarian law, and international economic law.</blurb>
+		<url>http://www.gojil.eu/</url>
+		<institution_id>871</institution_id>
+	</journal>
+	<journal>
+		<id>119</id>
+		<name>Macalester International</name>
+		<blurb>The Macalester International Journal includes volumes that publish selected papers from the Macalester International Roundtable and from the Macalester College Faculty Development International Seminars. The Roundtable, an intellectual festival convened each October, is an occasion for serious conversations across the College on topics of transnational significance. The practice is to commission a set of essays - a keynote address, followed by two additional essays delivered by seasoned scholars - which become the center of debate and discussion. Each of the two essays receives public response from a Macalester student and a member of the faculty. The purposes of the Roundtable are to cogitate together upon crucial but difficult global questions and to cultivate further the equipoise that minds of the Macalester academic community have long been expected to hold between local anxieties and transnational pressures.</blurb>
+		<url>http://digitalcommons.macalester.edu/macintl/</url>
+		<institution_id>872</institution_id>
+	</journal>
+	<journal>
+		<id>120</id>
+		<name>Bildhaan: An International Journal of Somali Studies</name>
+		<blurb></blurb>
+		<url>http://digitalcommons.macalester.edu/bildhaan/</url>
+		<institution_id>872</institution_id>
+	</journal>
+	<journal>
+		<id>121</id>
+		<name>Americas Quarterly</name>
+		<blurb>Americas Quarterly: The Policy Journal for Our Hemisphere is the only magazine dedicated to policy analysis and debate of economics, finance, social development, and politics in the Western Hemisphere. Launched in 2007, AQ reaches over 17,000 readers-high-level policymakers in Washington DC and throughout the region, top-level business men and women investing in the Americas, and new leaders in the worlds of finance, business, politics, and the media. AQ has gained a reputation as a balanced, authoritative, and accessible journal that responds to issues facing the region and brings a diverse set of key players to the table. The editorial mission is to engage a new generation of political, economic and social leaders in a discussion of future policy alternatives and to provide a forum for the exchange of ideas.</blurb>
+		<url>http://www.americasquarterly.org/current</url>
+		<institution_id>877</institution_id>
+	</journal>
+	<journal>
+		<id>122</id>
+		<name>Iranian Review of Foreign Affairs</name>
+		<blurb>The Iranian Review of Foreign Affairs (IRFA) is the English language quarterly of the Institute for Strategic Research, an affiliate of the Center for Strategic Research - CSR - (Expediency Council, Tehran). The quarterly, with an international editorial board comprising prominent scholars and practitioners of international relations, political science, and global and regional affairs, is intended to provide a forum for policy debate and advanced research on a wide range of current issues and unfolding developments. It endeavors to present independent, objective perspectives on the wide range of international and regional issues of importance to and affecting Iran and its foreign affairs. Hassan Rouhani, the Director of the Center for Strategic Research, serves as the executive director of the Review. Mahmood Vaezi, the Center&#039;s Deputy for Foreign Policy Research, serves as the editor-in-chief. The Editorial Board of the Iranian Review are keen to throw the net as far and wide as possible to invite interested scholars and practitioners, in Iran and elsewhere, to extend cooperation with this new journal and submit their papers, book reviews or short analytical notes on relevant subjects for publication in our journal.</blurb>
+		<url>http://www.csrjournals.ir</url>
+		<institution_id>878</institution_id>
+	</journal>
+	<journal>
+		<id>123</id>
+		<name>Bilgi</name>
+		<blurb>Published for over a decade, Bilgi is a peer-reviewed journal that covers many fields of social sciences. The journal publishes theoretical, historical, and policy-oriented articles on study areas which include: international relations, politics, sociology, political economy. Bilgi is a strictly peer-reviewed, biannually published journal and it includes a book review section.</blurb>
+		<url>http://bilgidergi.com/index.php?dil=en</url>
+		<institution_id>879</institution_id>
+	</journal>
+	<journal>
+		<id>124</id>
+		<name>Obrana a strategie (Defence  Strategy)</name>
+		<blurb>The area of security and strategic studies is an exceptionally important part of the social scientific research. Questions of defence and security have been gradually gaining focus of professional as well as laic public. The Defence  Strategy journal aims to answer the growing demand for expert information from this area.</blurb>
+		<url>http://www.defenceandstrategy.eu/en/</url>
+		<institution_id>880</institution_id>
+	</journal>
+	<journal>
+		<id>125</id>
+		<name>PRISM</name>
+		<blurb>PRISM is published by the National Defense University Press for the Center for Complex Operations. PRISM is a security studies journal chartered to inform members of U.S. Federal Agencies, allies, and other partners on complex and integrated national security operations; reconstruction and nationbuilding; relevant policy and strategy; lessons learned; and developments in training and education to transform America&#039;s security and development apparatus to meet tomorrow&#039;s challenges better while promoting freedom today.</blurb>
+		<url>http://cco.dodlive.mil/publications/prism/</url>
+		<institution_id>882</institution_id>
+	</journal>
+	<journal>
+		<id>128</id>
+		<name>The Diplomatic Courier</name>
+		<blurb>Diplomatic Courier is an independent publication both in its voice and its organization. Publishing opinions from all political spectrums, the Courier adheres to the ideals of freedom of expression, individualism, and fair and balanced journalism. The Diplomatic Courier covers the latest ideas and processes in diplomacy, negotiations, conflict resolution, international affairs, peace-building, and rule of law as well as concepts and theories from a variety of related disciplines.</blurb>
+		<url>http://www.diplomaticourier.com/</url>
+		<institution_id>884</institution_id>
+	</journal>
+	<journal>
+		<id>130</id>
+		<name>The Journal of International Law and International Relations</name>
+		<blurb></blurb>
+		<url>http://www.jilir.org/index.htm</url>
+		<institution_id>887</institution_id>
+	</journal>
+	<journal>
+		<id>138</id>
+		<name>Harvard Journal of Middle Eastern Politics and Policy</name>
+		<blurb>The Harvard Journal of Middle Eastern Politics and Policy (JMEPP) is a policy review, published annually at the Harvard Kennedy School that presents cutting-edge analysis on the contemporary Middle East and North Africa region. JMEPP is committed to presenting new perspectives on pressing problems, addressing complex issues with insightful analysis, and exploring emerging trends shaping the region. Our audience, composed of policymakers, academics, and more casual readers, is interested in policy writing that is forward-thinking, empirically-grounded, and accessible.</blurb>
+		<url>http://hksjmepp.com/</url>
+		<institution_id>895</institution_id>
+	</journal>
+	<journal>
+		<id>139</id>
+		<name>Counter Terrorist Trends and Analysis</name>
+		<blurb></blurb>
+		<url>http://www.pvtr.org/ICPVTR/index.php?option=com_content=article=330=245</url>
+		<institution_id>644</institution_id>
+	</journal>
+	<journal>
+		<id>140</id>
+		<name>AUSTRAL: Brazilian Journal of Strategy  International Relations</name>
+		<blurb>AUSTRAL: Brazilian Journal of Strategy  International Relations is an essentially academic vehicle, linked to the International Strategic Studies Doctoral Program (PPGEEI) of the Faculty of Economics (FCE) of the Universidade Federal do Rio Grande do Sul (UFRGS) and to the Brazilian Center for International Relations and Strategic Studies (NERINT) - a research center of the Latin American Institute for Advanced Studies (ILEA/UFRGS). Its pluralist focus aims to contribute to the debate on the international political and economic order from the perspective of the developing countries. The journal publishes original articles and book reviews in English, Portuguese or Spanish about themes that lie in the vast area of Strategy and International Relations, with special interest in issues related to developing countries and the South-South relations, their security issues, the economic, political and diplomatic development of emerging nations and their relations with the traditional powers. The journal&#039;s target audience consists of researchers, specialists and postgraduate students of International Relations. The journal will try, through its publication policy, to ensure that each volume has at least one author from each of the great southern continents (Asia, Latin America, Africa), in order to stimulate the debate and the diffusion of the knowledge produced in these regions. All of the contributions will be subjected to a scientific review.</blurb>
+		<url>http://seer.ufrgs.br/index.php/austral/index</url>
+		<institution_id>897</institution_id>
+	</journal>
+	<journal>
+		<id>141</id>
+		<name>Fletcher Security Review</name>
+		<blurb>We&#039;re an online journal managed and edited by students at the Fletcher School of Law and Diplomacy. In launching this journal, we at FSR are building on the Fletcher School&#039;s strong traditions of marrying academics with practice, fostering close interdisciplinary collaboration, and acting as an incubator for groundbreaking ideas in international security. We believe that by leveraging these strengths - seeking input from established and up-and-coming scholars, practitioners, and analysts from around the world on topics deserving of greater attention - we can promote genuinely unique ways of looking at the future of security.</blurb>
+		<url>http://www.fletchersecurity.org/</url>
+		<institution_id>614</institution_id>
+	</journal>
+	<journal>
+		<id>142</id>
+		<name>Turkish Review</name>
+		<blurb>Turkish Review is an English-language magazine published six times a year. We aim to act as a forum for both peer-reviewed academic articles and journalistic pieces on Turkey&#039;s politics, society, economy, culture and history, explored within domestic and international contexts. That is, we are a review of three things: events within Turkey; developments outside of but relevant to Turkey; and global affairs from a Turkish perspective. By &quot;Turkish perspective&quot; we mean adopting a constructive approach, with an inter-disciplinary, inclusive, in-depth and insightful attitude, while maintaining accessibility, originality and objectivity; above all making use of constructive, non-Orientalist, de-colonialist and dialogic language. Turkey lies at the center of (and is itself) a diverse geography, and the wide-ranging texts and backgrounds of our contributors reflect this. The opinions represented and conclusions drawn are those of the authors alone, and do not in any way construe endorsement by Turkish Review, its parent company, or affiliate organizations.</blurb>
+		<url>http://www.turkishreview.org/mainAction.action</url>
+		<institution_id>907</institution_id>
+	</journal>
+	<journal>
+		<id>143</id>
+		<name>Journal on Migration and Human Security</name>
+		<blurb>The Journal on Migration and Human Security (JMHS) is a peer-reviewed public policy publication of the Center for Migration Studies (CMS). The journal\&#039;s theme of &quot;human security&quot; is meant to evoke the widely shared goals of creating secure and sustaining conditions in migrant sending communities; promoting safe, legal migration options; and developing immigration and integration policies that benefit sending and receiving communities and allow newcomers to lead productive, secure lives. This thematic focus encompasses the broad scope of the social, political and economic dimensions of &quot;human security.&quot;</blurb>
+		<url>http://jmhs.cmsny.org/index.php/jmhs/index</url>
+		<institution_id>908</institution_id>
+	</journal>
+	<journal>
+		<id>145</id>
+		<name>Perceptions</name>
+		<blurb>Perceptions is a quarterly English language academic journal that features contributions from distinguished Turkish and international scholars. Perceptions is the flagship publication of SAM. The content of the journal ranges from security and democracy to conflict resolutions and international challenges and opportunities. Perceptions is a refereed journal  and is included in the following databases and indexes: Columbia International Affairs Online, CSA Index, Current Contents of Periodicals on the Middle East, EBSCO, European Sources Online, Index Islamicus, International Political Science Abstracts (IPSA), Lancaster Index to Defense  International Security Literature, PAIS Index, Pro Quest, Turkish Academic Network and Information Center (TÃœBÄ°TAK - ULAKBIM).</blurb>
+		<url>http://sam.gov.tr/category/publications/perceptions/</url>
+		<institution_id>878</institution_id>
+	</journal>
+	<journal>
+		<id>146</id>
+		<name>The CATO Journal</name>
+		<blurb></blurb>
+		<url></url>
+		<institution_id></institution_id>
+	</journal>
+	<journal>
+		<id>147</id>
+		<name>The CATO Journal </name>
+		<blurb></blurb>
+		<url></url>
+		<institution_id></institution_id>
+	</journal>
+	<journal>
+		<id>148</id>
+		<name>Bilge Strateji </name>
+		<blurb></blurb>
+		<url>http://www.bilgestrateji.com/en/</url>
+		<institution_id>912</institution_id>
+	</journal>
+	<journal>
+		<id>149</id>
+		<name>Bilge Strateji Ilge</name>
+		<blurb></blurb>
+		<url></url>
+		<institution_id></institution_id>
+	</journal>
+	<journal>
+		<id>150</id>
+		<name>The Ambassador&#039;s Review</name>
+		<blurb></blurb>
+		<url></url>
+		<institution_id></institution_id>
+	</journal>
+	<journal>
+		<id>151</id>
+		<name>The Polish Institute of International Affairs</name>
+		<blurb></blurb>
+		<url></url>
+		<institution_id></institution_id>
+	</journal>
+	<journal>
+		<id>152</id>
+		<name>Turkish Journal of Middle Eastern Studies</name>
+		<blurb></blurb>
+		<url></url>
+		<institution_id></institution_id>
+	</journal>
+</journals>

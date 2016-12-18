@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+
+  <xs:element name="authors">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="author"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:unique name="unique-author-id">
+      <xs:selector xpath="author" />
+      <xs:field xpath="id" />
+    </xs:unique>
+  </xs:element>
+  
+  <xs:element name="topics">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="topic"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:unique name="unique-topic-id">
+      <xs:selector xpath="topic" />
+      <xs:field xpath="id" />
+    </xs:unique>
+  </xs:element>
+
+  <xs:element name="external_resource_types">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="external_resource_type"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:unique name="unique-ert-id">
+      <xs:selector xpath="external_resource_type" />
+      <xs:field xpath="id" />
+    </xs:unique>
+  </xs:element>
+ 
+  <xs:element name="journal_issues">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="issue"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:unique name="unique-issue-id">
+      <xs:selector xpath="issue" />
+      <xs:field xpath="id" />
+    </xs:unique>
+  </xs:element>
+  
+  <xs:element name="journals">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="journal"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:unique name="unique-journal-id">
+      <xs:selector xpath="journal" />
+      <xs:field xpath="id" />
+    </xs:unique>
+  </xs:element>
+
+  <xs:element name="spatials">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="spatial"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:unique name="unique-spatial-id">
+      <xs:selector xpath="spatial" />
+      <xs:field xpath="id" />
+    </xs:unique>
+  </xs:element>
+  
+
+  <xs:element name="institutions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="institution"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:unique name="unique-institution-id">
+      <xs:selector xpath="institution" />
+      <xs:field xpath="id" />
+    </xs:unique>
+  </xs:element>
+  
+  <xs:element name="institution">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="name"/>
+        <xs:element ref="blurb"/>
+        <xs:element ref="url"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+
+  <xs:element name="journal">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="name"/>
+        <xs:element ref="blurb"/>
+        <xs:element ref="url"/>
+        <xs:element ref="institution_id"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  <xs:element name="issue">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="volume"/>
+        <xs:element ref="issue_number"/>
+        <xs:element ref="date"/>
+        <xs:element ref="special_date"/>
+        <xs:element ref="journal_id"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+
+  <xs:element name="external_resource_type">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="name"/>
+        <xs:element ref="url"/>
+        <xs:element ref="kind"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+
+  <xs:element name="author">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="first_name"/>
+        <xs:element ref="last_name"/>
+        <xs:element ref="affiliation"/>
+      </xs:sequence>
+     </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="spatial">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="name"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="topic">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="name"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="id" type="nonNullStr"/>
+  <xs:element name="name" type="nonNullStr"/>
+  <xs:element name="first_name" type="nonNullStr"/>
+  <xs:element name="last_name" type="nonNullStr"/>
+  <xs:element name="affiliation" type="xs:string"/>
+  <xs:element name="url" type="xs:string"/>
+  <xs:element name="kind" type="xs:string"/>
+  <xs:element name="volume" type="xs:string"/>
+  <xs:element name="issue_number" type="xs:string"/>
+  <xs:element name="date"  type="xs:date"/>
+  <xs:element name="special_date" type="xs:string"/>
+  <xs:element name="journal_id" type="nonNullStr"/>
+  <xs:element name="blurb" type="xs:string"/>
+  <xs:element name="institution_id" type="xs:string"/>
+  
+  
+  <xs:simpleType name="nonNullStr">
+  <!--  define type to require some some non-whitespace text  -->
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1" />
+      <xs:pattern value=".*[^\s].*" />
+    </xs:restriction>
+  </xs:simpleType>
+  
+  
+</xs:schema>

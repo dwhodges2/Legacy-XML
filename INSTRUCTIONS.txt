@@ -1,0 +1,20 @@
+XML templates for Charlesworth's conversion of flat files to XML for ciaonet.org. These instructions were revised 12/16/16. 
+
+Each CIAO resource is represented by an XML file named <id>.xml. See the sample file for tag-level documentation.
+
+Associated data is contained in the "authority files" folder, and new items should be added in the appropriate files there, and referenced by ID in the resource XML. The authority files contain data exported from the current CIAO database, e.g., for subjects, locations, journals, etc. Do not duplicate information (e.g., names of authors) in the resource XML, but refer by ID.
+
+
+• authors.xml: List of authors with unique IDs, names, and affiliations. Newly created records should have "AU" prefix (AU0001, etc.)
+• external_resource_types.xml: List of external links and video embed ids. Newly created records should have "ER" prefix (ER0001, etc.)
+• journal_issues.xml: List of journal issues. Newly created records should have "JI" prefix (JI0001, etc.)
+• journals.xml: List of journals. Newly created records should have "JO" prefix (JO0001, etc.)
+• locations.xml: Spacial tags used for resources. Newly created records should have "LO" prefix (LO0001, etc.)
+• subjects.xml: List of subjects used on the site. Newly created records should have "SU" prefix (SU0001, etc.)
+
+
+Some resources (e.g., course packs) have subsidiary content that may not be represented in the flat files (e.g., they are only PDFs). In these cases new resource XML files will need to be created for each subsidiary content object, and referenced under <associated_ciao_resources> in the parent resource XML.
+
+
+
+

@@ -1,0 +1,25 @@
+<external_resource_types xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="authority_schema.xsd">
+  <external_resource_type>
+    <id>1</id>
+    <name>example external resource</name>
+    <url>http</url>
+    <kind>Link</kind>
+  </external_resource_type>
+  
+  <external_resource_type>
+    <id>2</id>
+    <name>example 2 external resource</name>
+    <url>http://www.google.com</url>
+    <kind>Link</kind>
+  </external_resource_type>
+  
+  <external_resource_type>
+    <id>8</id>
+    <name>His Excellency Dr. Mohammad Ashraf Ghani, President of the Islamic Republic of Afghanistan </name>
+    <url>W2HxslBETa0</url>
+    <kind>YouTube</kind>
+  </external_resource_type>
+  
+  
+</external_resource_types>

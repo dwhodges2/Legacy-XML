@@ -1,0 +1,1100 @@
+<!-- based on db export 2016-12-16-->
+<topics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="authority_schema.xsd">
+	<topic>
+		<id>51</id>
+		<name>Conflict Resolution</name>
+	</topic>
+	<topic>
+		<id>53</id>
+		<name>Conflict Prevention</name>
+	</topic>
+	<topic>
+		<id>54</id>
+		<name>International Relations</name>
+	</topic>
+	<topic>
+		<id>55</id>
+		<name>Security</name>
+	</topic>
+	<topic>
+		<id>56</id>
+		<name>Foreign Policy</name>
+	</topic>
+	<topic>
+		<id>57</id>
+		<name>Political Violence</name>
+	</topic>
+	<topic>
+		<id>59</id>
+		<name>Defense Policy</name>
+	</topic>
+	<topic>
+		<id>60</id>
+		<name>NATO</name>
+	</topic>
+	<topic>
+		<id>64</id>
+		<name>Agriculture</name>
+	</topic>
+	<topic>
+		<id>65</id>
+		<name>HIV/AIDS</name>
+	</topic>
+	<topic>
+		<id>66</id>
+		<name>Apartheid</name>
+	</topic>
+	<topic>
+		<id>68</id>
+		<name>Arms Control and Proliferation</name>
+	</topic>
+	<topic>
+		<id>77</id>
+		<name>Civil Society</name>
+	</topic>
+	<topic>
+		<id>78</id>
+		<name>Civil War</name>
+	</topic>
+	<topic>
+		<id>79</id>
+		<name>Climate Change</name>
+	</topic>
+	<topic>
+		<id>80</id>
+		<name>Cold War</name>
+	</topic>
+	<topic>
+		<id>81</id>
+		<name>Communism</name>
+	</topic>
+	<topic>
+		<id>83</id>
+		<name>Corruption</name>
+	</topic>
+	<topic>
+		<id>84</id>
+		<name>Crime</name>
+	</topic>
+	<topic>
+		<id>85</id>
+		<name>Debt</name>
+	</topic>
+	<topic>
+		<id>86</id>
+		<name>Democratization</name>
+	</topic>
+	<topic>
+		<id>87</id>
+		<name>Demographics</name>
+	</topic>
+	<topic>
+		<id>88</id>
+		<name>Development</name>
+	</topic>
+	<topic>
+		<id>89</id>
+		<name>Diplomacy</name>
+	</topic>
+	<topic>
+		<id>90</id>
+		<name>Disaster Relief</name>
+	</topic>
+	<topic>
+		<id>93</id>
+		<name>Economics</name>
+	</topic>
+	<topic>
+		<id>94</id>
+		<name>Education</name>
+	</topic>
+	<topic>
+		<id>96</id>
+		<name>Emerging Markets</name>
+	</topic>
+	<topic>
+		<id>97</id>
+		<name>Energy Policy</name>
+	</topic>
+	<topic>
+		<id>98</id>
+		<name>Environment</name>
+	</topic>
+	<topic>
+		<id>99</id>
+		<name>Ethnic Conflict</name>
+	</topic>
+	<topic>
+		<id>101</id>
+		<name>Foreign Exchange</name>
+	</topic>
+	<topic>
+		<id>103</id>
+		<name>Gender Issues</name>
+	</topic>
+	<topic>
+		<id>104</id>
+		<name>Genocide</name>
+	</topic>
+	<topic>
+		<id>106</id>
+		<name>Globalization</name>
+	</topic>
+	<topic>
+		<id>107</id>
+		<name>Government</name>
+	</topic>
+	<topic>
+		<id>109</id>
+		<name>Health</name>
+	</topic>
+	<topic>
+		<id>110</id>
+		<name>Human Rights</name>
+	</topic>
+	<topic>
+		<id>111</id>
+		<name>Human Welfare</name>
+	</topic>
+	<topic>
+		<id>112</id>
+		<name>Humanitarian Aid</name>
+	</topic>
+	<topic>
+		<id>113</id>
+		<name>Imperialism</name>
+	</topic>
+	<topic>
+		<id>115</id>
+		<name>Industrial Policy</name>
+	</topic>
+	<topic>
+		<id>116</id>
+		<name>Intelligence</name>
+	</topic>
+	<topic>
+		<id>117</id>
+		<name>International Cooperation</name>
+	</topic>
+	<topic>
+		<id>119</id>
+		<name>International Law</name>
+	</topic>
+	<topic>
+		<id>120</id>
+		<name>International Organization</name>
+	</topic>
+	<topic>
+		<id>121</id>
+		<name>International Political Economy</name>
+	</topic>
+	<topic>
+		<id>122</id>
+		<name>International Trade and Finance</name>
+	</topic>
+	<topic>
+		<id>125</id>
+		<name>Islam</name>
+	</topic>
+	<topic>
+		<id>129</id>
+		<name>Markets</name>
+	</topic>
+	<topic>
+		<id>130</id>
+		<name>Migration</name>
+	</topic>
+	<topic>
+		<id>131</id>
+		<name>National Security</name>
+	</topic>
+	<topic>
+		<id>132</id>
+		<name>Nationalism</name>
+	</topic>
+	<topic>
+		<id>133</id>
+		<name>Non-Governmental Organization</name>
+	</topic>
+	<topic>
+		<id>137</id>
+		<name>Nuclear Weapons</name>
+	</topic>
+	<topic>
+		<id>138</id>
+		<name>Oil</name>
+	</topic>
+	<topic>
+		<id>140</id>
+		<name>Peace Studies</name>
+	</topic>
+	<topic>
+		<id>141</id>
+		<name>Political Economy</name>
+	</topic>
+	<topic>
+		<id>142</id>
+		<name>Politics</name>
+	</topic>
+	<topic>
+		<id>143</id>
+		<name>Post Colonialism</name>
+	</topic>
+	<topic>
+		<id>144</id>
+		<name>Poverty</name>
+	</topic>
+	<topic>
+		<id>145</id>
+		<name>Privatization</name>
+	</topic>
+	<topic>
+		<id>146</id>
+		<name>Race</name>
+	</topic>
+	<topic>
+		<id>147</id>
+		<name>Regional Cooperation</name>
+	</topic>
+	<topic>
+		<id>148</id>
+		<name>Religion</name>
+	</topic>
+	<topic>
+		<id>150</id>
+		<name>Science and Technology</name>
+	</topic>
+	<topic>
+		<id>155</id>
+		<name>Sovereignty</name>
+	</topic>
+	<topic>
+		<id>157</id>
+		<name>Terrorism</name>
+	</topic>
+	<topic>
+		<id>158</id>
+		<name>Torture</name>
+	</topic>
+	<topic>
+		<id>159</id>
+		<name>Treaties and Agreements</name>
+	</topic>
+	<topic>
+		<id>161</id>
+		<name>Third World</name>
+	</topic>
+	<topic>
+		<id>163</id>
+		<name>United Nations</name>
+	</topic>
+	<topic>
+		<id>166</id>
+		<name>War</name>
+	</topic>
+	<topic>
+		<id>167</id>
+		<name>War on Drugs</name>
+	</topic>
+	<topic>
+		<id>168</id>
+		<name>Weapons of Mass Destruction</name>
+	</topic>
+	<topic>
+		<id>171</id>
+		<name>International Security</name>
+	</topic>
+	<topic>
+		<id>199</id>
+		<name>International Affairs</name>
+	</topic>
+	<topic>
+		<id>200</id>
+		<name>Communications</name>
+	</topic>
+	<topic>
+		<id>203</id>
+		<name>Political Theory</name>
+	</topic>
+	<topic>
+		<id>204</id>
+		<name>Natural Disasters</name>
+	</topic>
+	<topic>
+		<id>229</id>
+		<name>History</name>
+	</topic>
+	<topic>
+		<id>259</id>
+		<name>Arts</name>
+	</topic>
+	<topic>
+		<id>260</id>
+		<name>World Trade Organization</name>
+	</topic>
+	<topic>
+		<id>275</id>
+		<name>World Health Organization</name>
+	</topic>
+	<topic>
+		<id>279</id>
+		<name>International Monetary Fund</name>
+	</topic>
+	<topic>
+		<id>282</id>
+		<name>Ethnic Government</name>
+	</topic>
+	<topic>
+		<id>357</id>
+		<name>Global Recession</name>
+	</topic>
+	<topic>
+		<id>360</id>
+		<name>Military Strategy</name>
+	</topic>
+	<topic>
+		<id>361</id>
+		<name>Maritime Commerce</name>
+	</topic>
+	<topic>
+		<id>362</id>
+		<name>Infectious Diseases</name>
+	</topic>
+	<topic>
+		<id>365</id>
+		<name>Biosecurity</name>
+	</topic>
+	<topic>
+		<id>366</id>
+		<name>Armed Struggle</name>
+	</topic>
+	<topic>
+		<id>367</id>
+		<name>Mass Media</name>
+	</topic>
+	<topic>
+		<id>368</id>
+		<name>Diaspora</name>
+	</topic>
+	<topic>
+		<id>369</id>
+		<name>Power Politics</name>
+	</topic>
+	<topic>
+		<id>370</id>
+		<name>Social Stratification</name>
+	</topic>
+	<topic>
+		<id>371</id>
+		<name>Socialism/Marxism</name>
+	</topic>
+	<topic>
+		<id>372</id>
+		<name>Regime Change</name>
+	</topic>
+	<topic>
+		<id>373</id>
+		<name>Insurgency</name>
+	</topic>
+	<topic>
+		<id>374</id>
+		<name>Bilateral Relations</name>
+	</topic>
+	<topic>
+		<id>375</id>
+		<name>Refugee Issues</name>
+	</topic>
+	<topic>
+		<id>376</id>
+		<name>Natural Resources</name>
+	</topic>
+	<topic>
+		<id>377</id>
+		<name>Territorial Disputes</name>
+	</topic>
+	<topic>
+		<id>378</id>
+		<name>Foreign Aid</name>
+	</topic>
+	<topic>
+		<id>379</id>
+		<name>Counterinsurgency</name>
+	</topic>
+	<topic>
+		<id>380</id>
+		<name>Labor Issues</name>
+	</topic>
+	<topic>
+		<id>381</id>
+		<name>Water</name>
+	</topic>
+	<topic>
+		<id>382</id>
+		<name>Narcotics Trafficking</name>
+	</topic>
+	<topic>
+		<id>383</id>
+		<name>Sex Trafficking</name>
+	</topic>
+	<topic>
+		<id>384</id>
+		<name>Immigration</name>
+	</topic>
+	<topic>
+		<id>385</id>
+		<name>Monetary Policy</name>
+	</topic>
+	<topic>
+		<id>386</id>
+		<name>Food</name>
+	</topic>
+	<topic>
+		<id>387</id>
+		<name>Famine</name>
+	</topic>
+	<topic>
+		<id>388</id>
+		<name>Infrastructure</name>
+	</topic>
+	<topic>
+		<id>389</id>
+		<name>Fragile/Failed State</name>
+	</topic>
+	<topic>
+		<id>390</id>
+		<name>Non State Actors</name>
+	</topic>
+	<topic>
+		<id>391</id>
+		<name>Sociology</name>
+	</topic>
+	<topic>
+		<id>392</id>
+		<name>Intellectual Property/Copyright</name>
+	</topic>
+	<topic>
+		<id>394</id>
+		<name>Foreign Direct Investment</name>
+	</topic>
+	<topic>
+		<id>395</id>
+		<name>Sovereign Wealth Funds</name>
+	</topic>
+	<topic>
+		<id>396</id>
+		<name>Youth Culture</name>
+	</topic>
+	<topic>
+		<id>398</id>
+		<name>Financial Crisis</name>
+	</topic>
+	<topic>
+		<id>399</id>
+		<name>Governance</name>
+	</topic>
+	<topic>
+		<id>401</id>
+		<name>Sectarianism</name>
+	</topic>
+	<topic>
+		<id>402</id>
+		<name>Political Power Sharing</name>
+	</topic>
+	<topic>
+		<id>403</id>
+		<name>Tourism</name>
+	</topic>
+	<topic>
+		<id>406</id>
+		<name>Law Enforcement</name>
+	</topic>
+	<topic>
+		<id>408</id>
+		<name>Culture</name>
+	</topic>
+	<topic>
+		<id>410</id>
+		<name>Social Movement</name>
+	</topic>
+	<topic>
+		<id>411</id>
+		<name>Hegemony</name>
+	</topic>
+	<topic>
+		<id>412</id>
+		<name>Multiculturalism</name>
+	</topic>
+	<topic>
+		<id>413</id>
+		<name>Law</name>
+	</topic>
+	<topic>
+		<id>414</id>
+		<name>Sanctions</name>
+	</topic>
+	<topic>
+		<id>415</id>
+		<name>Public Opinion</name>
+	</topic>
+	<topic>
+		<id>416</id>
+		<name>Sectarian violence</name>
+	</topic>
+	<topic>
+		<id>417</id>
+		<name>Brain Drain</name>
+	</topic>
+	<topic>
+		<id>418</id>
+		<name>Prisons/Penal Systems</name>
+	</topic>
+	<topic>
+		<id>422</id>
+		<name>Anarchy</name>
+	</topic>
+	<topic>
+		<id>423</id>
+		<name>Piracy</name>
+	</topic>
+	<topic>
+		<id>425</id>
+		<name>Reconstruction</name>
+	</topic>
+	<topic>
+		<id>426</id>
+		<name>Self Determination</name>
+	</topic>
+	<topic>
+		<id>427</id>
+		<name>World Bank</name>
+	</topic>
+	<topic>
+		<id>430</id>
+		<name>Population</name>
+	</topic>
+	<topic>
+		<id>432</id>
+		<name>Peacekeeping</name>
+	</topic>
+	<topic>
+		<id>433</id>
+		<name>Armed Forces</name>
+	</topic>
+	<topic>
+		<id>434</id>
+		<name>Military Affairs</name>
+	</topic>
+	<topic>
+		<id>435</id>
+		<name>Minorities</name>
+	</topic>
+	<topic>
+		<id>438</id>
+		<name>Authoritarianism</name>
+	</topic>
+	<topic>
+		<id>439</id>
+		<name>Health Care Policy</name>
+	</topic>
+	<topic>
+		<id>456</id>
+		<name>Biofuels</name>
+	</topic>
+	<topic>
+		<id>457</id>
+		<name>Kyoto Protocol</name>
+	</topic>
+	<topic>
+		<id>460</id>
+		<name>OPEC</name>
+	</topic>
+	<topic>
+		<id>461</id>
+		<name>Border Control</name>
+	</topic>
+	<topic>
+		<id>464</id>
+		<name>Political Activism</name>
+	</topic>
+	<topic>
+		<id>465</id>
+		<name>Nuclear Power</name>
+	</topic>
+	<topic>
+		<id>467</id>
+		<name>Popular Revolt</name>
+	</topic>
+	<topic>
+		<id>468</id>
+		<name>Urbanization</name>
+	</topic>
+	<topic>
+		<id>469</id>
+		<name>Neoimperialism</name>
+	</topic>
+	<topic>
+		<id>472</id>
+		<name>Developing World</name>
+	</topic>
+	<topic>
+		<id>474</id>
+		<name>Reform</name>
+	</topic>
+	<topic>
+		<id>476</id>
+		<name>Budget</name>
+	</topic>
+	<topic>
+		<id>478</id>
+		<name>Children</name>
+	</topic>
+	<topic>
+		<id>484</id>
+		<name>G20</name>
+	</topic>
+	<topic>
+		<id>485</id>
+		<name>Elections</name>
+	</topic>
+	<topic>
+		<id>486</id>
+		<name>Taliban</name>
+	</topic>
+	<topic>
+		<id>489</id>
+		<name>Ebola</name>
+	</topic>
+	<topic>
+		<id>498</id>
+		<name>China</name>
+	</topic>
+	<topic>
+		<id>502</id>
+		<name>Violent Extremism</name>
+	</topic>
+	<topic>
+		<id>504</id>
+		<name>European Union</name>
+	</topic>
+	<topic>
+		<id>505</id>
+		<name>Counter-terrorism</name>
+	</topic>
+	<topic>
+		<id>506</id>
+		<name>Russia</name>
+	</topic>
+	<topic>
+		<id>507</id>
+		<name>Arab Countries</name>
+	</topic>
+	<topic>
+		<id>508</id>
+		<name>Women</name>
+	</topic>
+	<topic>
+		<id>509</id>
+		<name>United States </name>
+	</topic>
+	<topic>
+		<id>510</id>
+		<name>Federal Reserve</name>
+	</topic>
+	<topic>
+		<id>511</id>
+		<name>Partnerships</name>
+	</topic>
+	<topic>
+		<id>513</id>
+		<name>War Crimes</name>
+	</topic>
+	<topic>
+		<id>515</id>
+		<name>Radicalization</name>
+	</topic>
+	<topic>
+		<id>517</id>
+		<name>Iran</name>
+	</topic>
+	<topic>
+		<id>518</id>
+		<name>Gulf Nations</name>
+	</topic>
+	<topic>
+		<id>520</id>
+		<name>Cybersecurity</name>
+	</topic>
+	<topic>
+		<id>521</id>
+		<name>GDP</name>
+	</topic>
+	<topic>
+		<id>522</id>
+		<name>Democracy</name>
+	</topic>
+	<topic>
+		<id>523</id>
+		<name>Global Markets</name>
+	</topic>
+	<topic>
+		<id>524</id>
+		<name>Employment</name>
+	</topic>
+	<topic>
+		<id>526</id>
+		<name>Economies</name>
+	</topic>
+	<topic>
+		<id>527</id>
+		<name>Sports</name>
+	</topic>
+	<topic>
+		<id>529</id>
+		<name>Al Qaeda</name>
+	</topic>
+	<topic>
+		<id>535</id>
+		<name>Food Security</name>
+	</topic>
+	<topic>
+		<id>536</id>
+		<name>Geopolitics</name>
+	</topic>
+	<topic>
+		<id>537</id>
+		<name>Central Asia</name>
+	</topic>
+	<topic>
+		<id>538</id>
+		<name>Enivironment</name>
+	</topic>
+	<topic>
+		<id>539</id>
+		<name>Refugees</name>
+	</topic>
+	<topic>
+		<id>540</id>
+		<name>Gas</name>
+	</topic>
+	<topic>
+		<id>541</id>
+		<name>Regulation</name>
+	</topic>
+	<topic>
+		<id>542</id>
+		<name>Media</name>
+	</topic>
+	<topic>
+		<id>543</id>
+		<name>Capitalism</name>
+	</topic>
+	<topic>
+		<id>545</id>
+		<name>Hunger</name>
+	</topic>
+	<topic>
+		<id>547</id>
+		<name>Inequality</name>
+	</topic>
+	<topic>
+		<id>548</id>
+		<name>Finance</name>
+	</topic>
+	<topic>
+		<id>549</id>
+		<name>Income Inequality</name>
+	</topic>
+	<topic>
+		<id>550</id>
+		<name>Refugee Crisis</name>
+	</topic>
+	<topic>
+		<id>552</id>
+		<name>Afghanistan</name>
+	</topic>
+	<topic>
+		<id>553</id>
+		<name>Multilateral Relatons</name>
+	</topic>
+	<topic>
+		<id>554</id>
+		<name>Ethics</name>
+	</topic>
+	<topic>
+		<id>555</id>
+		<name>Information Age</name>
+	</topic>
+	<topic>
+		<id>556</id>
+		<name>Digital Economy</name>
+	</topic>
+	<topic>
+		<id>557</id>
+		<name>Privacy</name>
+	</topic>
+	<topic>
+		<id>558</id>
+		<name>Millennium Development Goals</name>
+	</topic>
+	<topic>
+		<id>559</id>
+		<name>Financial Markets</name>
+	</topic>
+	<topic>
+		<id>560</id>
+		<name>Climate Finance</name>
+	</topic>
+	<topic>
+		<id>561</id>
+		<name>Turkey</name>
+	</topic>
+	<topic>
+		<id>562</id>
+		<name>Internet</name>
+	</topic>
+	<topic>
+		<id>563</id>
+		<name>Entrepreneurship</name>
+	</topic>
+	<topic>
+		<id>564</id>
+		<name>Constitution</name>
+	</topic>
+	<topic>
+		<id>566</id>
+		<name>Citizenship</name>
+	</topic>
+	<topic>
+		<id>568</id>
+		<name>ISIS</name>
+	</topic>
+	<topic>
+		<id>569</id>
+		<name>Global Security</name>
+	</topic>
+	<topic>
+		<id>570</id>
+		<name>Weapons </name>
+	</topic>
+	<topic>
+		<id>571</id>
+		<name>Drones</name>
+	</topic>
+	<topic>
+		<id>572</id>
+		<name>Leadership</name>
+	</topic>
+	<topic>
+		<id>573</id>
+		<name>Social Media</name>
+	</topic>
+	<topic>
+		<id>575</id>
+		<name>Fragile States</name>
+	</topic>
+	<topic>
+		<id>576</id>
+		<name>ISIL</name>
+	</topic>
+	<topic>
+		<id>577</id>
+		<name>Islamic State</name>
+	</topic>
+	<topic>
+		<id>578</id>
+		<name>Vietnam</name>
+	</topic>
+	<topic>
+		<id>579</id>
+		<name>Navy</name>
+	</topic>
+	<topic>
+		<id>580</id>
+		<name>Homeland Security</name>
+	</topic>
+	<topic>
+		<id>581</id>
+		<name>Landpower</name>
+	</topic>
+	<topic>
+		<id>582</id>
+		<name>Summary</name>
+	</topic>
+	<topic>
+		<id>583</id>
+		<name>Basic Data</name>
+	</topic>
+	<topic>
+		<id>584</id>
+		<name>News Analysis</name>
+	</topic>
+	<topic>
+		<id>585</id>
+		<name>Economy</name>
+	</topic>
+	<topic>
+		<id>586</id>
+		<name>Background</name>
+	</topic>
+	<topic>
+		<id>587</id>
+		<name>Fact sheet</name>
+	</topic>
+	<topic>
+		<id>588</id>
+		<name>Outlook</name>
+	</topic>
+	<topic>
+		<id>589</id>
+		<name>Highlights</name>
+	</topic>
+	<topic>
+		<id>590</id>
+		<name>5-year summary</name>
+	</topic>
+	<topic>
+		<id>591</id>
+		<name>Key indicators</name>
+	</topic>
+	<topic>
+		<id>592</id>
+		<name>Forecast</name>
+	</topic>
+	<topic>
+		<id>593</id>
+		<name>Economic structure</name>
+	</topic>
+	<topic>
+		<id>594</id>
+		<name>Charts and tables</name>
+	</topic>
+	<topic>
+		<id>595</id>
+		<name>Monthly trends charts</name>
+	</topic>
+	<topic>
+		<id>596</id>
+		<name>Political structure</name>
+	</topic>
+	<topic>
+		<id>597</id>
+		<name>Country outlook</name>
+	</topic>
+	<topic>
+		<id>598</id>
+		<name>Annual indicators</name>
+	</topic>
+	<topic>
+		<id>599</id>
+		<name>At a glance</name>
+	</topic>
+	<topic>
+		<id>600</id>
+		<name>Annual trends charts</name>
+	</topic>
+	<topic>
+		<id>601</id>
+		<name>Key players to watch</name>
+	</topic>
+	<topic>
+		<id>602</id>
+		<name>Political and institutional effectiveness</name>
+	</topic>
+	<topic>
+		<id>603</id>
+		<name>Political forces at a glance</name>
+	</topic>
+	<topic>
+		<id>604</id>
+		<name>Quarterly trends charts</name>
+	</topic>
+	<topic>
+		<id>605</id>
+		<name>Political stability</name>
+	</topic>
+	<topic>
+		<id>606</id>
+		<name>Key players to watchPolitics</name>
+	</topic>
+	<topic>
+		<id>607</id>
+		<name>Arms Trade</name>
+	</topic>
+	<topic>
+		<id>608</id>
+		<name>UNDP</name>
+	</topic>
+	<topic>
+		<id>609</id>
+		<name>Sustainable Development Goals</name>
+	</topic>
+	<topic>
+		<id>610</id>
+		<name>Global Focus</name>
+	</topic>
+	<topic>
+		<id>611</id>
+		<name>Salafism</name>
+	</topic>
+	<topic>
+		<id>612</id>
+		<name>Research</name>
+	</topic>
+	<topic>
+		<id>613</id>
+		<name>Business </name>
+	</topic>
+	<topic>
+		<id>614</id>
+		<name>Ethnicity</name>
+	</topic>
+	<topic>
+		<id>615</id>
+		<name>Trafficking </name>
+	</topic>
+	<topic>
+		<id>616</id>
+		<name>Naturalization</name>
+	</topic>
+	<topic>
+		<id>617</id>
+		<name>Census</name>
+	</topic>
+	<topic>
+		<id>618</id>
+		<name>Europe </name>
+	</topic>
+	<topic>
+		<id>619</id>
+		<name>Child Poverty</name>
+	</topic>
+	<topic>
+		<id>620</id>
+		<name>Immigrants</name>
+	</topic>
+	<topic>
+		<id>621</id>
+		<name>Israel</name>
+	</topic>
+	<topic>
+		<id>622</id>
+		<name>Europe Union</name>
+	</topic>
+	<topic>
+		<id>623</id>
+		<name>Freedom of Expression</name>
+	</topic>
+	<topic>
+		<id>624</id>
+		<name>Developments</name>
+	</topic>
+	<topic>
+		<id>625</id>
+		<name>Post Truth Politics</name>
+	</topic>
+	<topic>
+		<id>626</id>
+		<name>Brexit</name>
+	</topic>
+</topics>
