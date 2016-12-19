@@ -169,7 +169,7 @@
   
   <xs:element name="id" type="nonNullStr"/>
   <xs:element name="name" type="nonNullStr"/>
-  <xs:element name="first_name" type="nonNullStr"/>
+  <xs:element name="first_name" type="xs:string"/>
   <xs:element name="last_name" type="nonNullStr"/>
   <xs:element name="affiliation" type="xs:string"/>
   <xs:element name="url" type="xs:string"/>
