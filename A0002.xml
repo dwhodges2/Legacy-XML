@@ -7,7 +7,7 @@
     
     <!--  ID assigned by vendor with 'A' prefix. Also in filename. -->
     <id>A0002</id>
-    
+    <legacy_id>http://dfaaef.afe.com</legacy_id>
     <!--  Tile of work -->
     <title>Rethinking Modernity and National Identity in Turkey</title>
     
@@ -66,8 +66,8 @@
           order_id specifies list sorting -->
     <associated_ciao_resources>
       <associated_ciao_resource>
-        <ciao_id></ciao_id>
-        <order_id></order_id>
+        <ciao_id>1</ciao_id>
+        <order_id>1</order_id>
       </associated_ciao_resource>
     </associated_ciao_resources>
     
@@ -76,7 +76,7 @@
           for YouTube, the URL is only the video id string, which becomes a player embed on front end. -->
     <associated_external_resources>
       <associated_external_resource>
-        <id></id>
+        <id>adsfadsf</id>
       </associated_external_resource>
     </associated_external_resources>
   </resource>

@@ -10,118 +10,112 @@
   </xs:element>
   <xs:element name="resource">
     <xs:complexType>
-      <xs:complexContent>
-        <xs:extension base="id">
           <xs:sequence>
-            <xs:element ref="title"/>
+            <xs:element name="id" type="xs:ID"/>
+            <xs:element name="legacy_id" type="xs:string" minOccurs="0"/>
+            <xs:element name="title" type="xs:string"/>
             <xs:element ref="authors"/>
-            <xs:element ref="content_type"/>
-            <xs:element ref="resource_type"/>
-            <xs:element ref="institution_id"/>
-            <xs:element ref="abstract"/>
-            <xs:element ref="full_text"/>
-            <xs:element ref="pub_date"/>
-            <xs:element ref="language"/>
-            <xs:element ref="subject_id"/>
-            <xs:element ref="spatials"/>
-            <xs:element ref="journal_issue_id"/>
-            <xs:element ref="order"/>
-            <xs:element ref="isbns"/>
-            <xs:element ref="associated_ciao_resources"/>
-            <xs:element ref="associated_external_resources"/>
+            <xs:element name="content_type" type="xs:string"/>
+            <xs:element name="resource_type" type="xs:string"/>
+            <xs:element name="institution_id" type="nonNullStr"/>
+            <xs:element name="abstract" type="xs:string" minOccurs="0"/>
+            <xs:element ref="full_text" minOccurs="0"/>
+            <xs:element name="pub_date" type="xs:date"/>
+            <xs:element name="language" type="xs:string"/>
+            <xs:element name="subject_id" minOccurs="0" maxOccurs="unbounded" type="nonNullStr"/>
+            <xs:element ref="spatials" minOccurs="0"/>
+            <xs:element name="journal_issue_id" minOccurs="0"/>
+            <xs:element name="order" minOccurs="0"/>
+            <xs:element ref="isbns" minOccurs="0"/>
+            <xs:element ref="associated_ciao_resources" minOccurs="0"/>
+            <xs:element ref="associated_external_resources" minOccurs="0"/>
           </xs:sequence>
-        </xs:extension>
-      </xs:complexContent>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="title" type="xs:string"/>
-  <xs:element name="authors">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="author_id"/>
-      </xs:sequence>
     </xs:complexType>
   </xs:element>
   
-  
-  <xs:element name="author_id">
-    <xs:complexType>
-      <xs:simpleContent>
-        <xs:extension base="xs:integer">
-          <xs:attribute name="role" use="required" type="xs:NCName"/>
-        </xs:extension>
-      </xs:simpleContent>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="content_type" type="xs:NCName"/>
-  <xs:element name="resource_type" type="xs:NCName"/>
-  <xs:element name="institution_id" type="xs:integer"/>
-  <xs:element name="abstract" type="xs:string"/>
-  <xs:element name="full_text">
-    <xs:complexType/>
-  </xs:element>
-  <xs:element name="pub_date" type="xs:date"/>
-  <xs:element name="language" type="xs:NCName"/>
-  <xs:element name="subject_id" type="xs:integer"/>
-  <xs:element name="spatials">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="spatial"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="spatial" type="id"/>
-  <xs:element name="journal_issue_id">
-    <xs:complexType/>
-  </xs:element>
-  <xs:element name="order">
-    <xs:complexType/>
-  </xs:element>
-  <xs:element name="isbns">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="isbn"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="isbn">
-    <xs:complexType/>
-  </xs:element>
   <xs:element name="associated_ciao_resources">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="associated_ciao_resource"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="associated_ciao_resource"/>
       </xs:sequence>
     </xs:complexType>
-  </xs:element>
-  <xs:element name="associated_ciao_resource">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="ciao_id"/>
-        <xs:element ref="order_id"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="ciao_id">
-    <xs:complexType/>
-  </xs:element>
-  <xs:element name="order_id">
-    <xs:complexType/>
   </xs:element>
   <xs:element name="associated_external_resources">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="associated_external_resource"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="associated_external_resource"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="associated_external_resource" type="id"/>
-  <xs:complexType name="id">
-    <xs:sequence>
-      <xs:element ref="id"/>
-    </xs:sequence>
+  
+  
+  <xs:element name="authors">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" minOccurs="0" ref="author_id"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+    
+  
+  <xs:element name="author_id">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="nonNullStr">
+          <xs:attribute name="role" use="required" type="xs:string"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+ 
+  <xs:element name="full_text"  type="xs:anyType"/>
+     
+    
+    
+    
+  <xs:element name="spatials">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="spatial"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+ 
+  <xs:element name="isbns">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="isbn"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+    
+    <xs:element  type="xs:string" name="isbn"/>
+  <xs:element name="spatial">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="id" type="nonNullStr"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+   <xs:element name="associated_ciao_resource">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="nonNullStr" name="ciao_id"/>
+        <xs:element type="nonNullStr" name="order_id"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="associated_external_resource">
+  <xs:complexType> 
+<xs:sequence>    
+  <xs:element name="id" type="nonNullStr"  />
+</xs:sequence> 
   </xs:complexType>
-  <xs:element name="id" type="xs:string"/>
+  </xs:element>
   
   
   
